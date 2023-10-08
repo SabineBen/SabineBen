@@ -1,10 +1,8 @@
 ## Hi 👋 I'am Sabine
 ### web developer && full stck
+#### full stack developer from Algeria,l'am passionate about web and mobile development, I acquired a solid base of programming languages and technologies, i leverage my problem solving skills and computer science experience to create solutions.
 
 <!--
-**SabineBen/SabineBen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
