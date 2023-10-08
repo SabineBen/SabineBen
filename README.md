@@ -12,5 +12,5 @@ full stack developer from Algeria,l'am passionate about web and mobile developme
 - 💬 Ask me about problem-solving.
 
 # Skills🔥:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,c,nodejs,expressjs,react,mysql,heroku,shakraui)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,c,cpp,nodejs,expressjs,react,mysql,mongodb,heroku,docker,git,linux)](https://skillicons.dev) 
 
