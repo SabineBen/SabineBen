@@ -8,8 +8,10 @@ full stack developer from Algeria,l'am passionate about web and mobile developme
 - 🔭 Master's degree in software engineering from university HASSIBA BENBOUALI Chlef.
 - 🌱 UI/UX Designer.
 - 👯 I’m looking to collaborate on new projcts.
+- 🖌 I’m currently learning React.js.
 - 💬 Ask me about problem-solving.
 
-# Skills
+# Skills🔥:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 
