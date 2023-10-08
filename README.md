@@ -1,6 +1,6 @@
 # Hi 👋 I'am Sabine
 
-### Web developer && Full stck 💻
+### Web developer && Full stack 💻
 full stack developer from Algeria,l'am passionate about web and mobile development, I acquired a solid base of programming languages and technologies, i leverage my problem solving skills and computer science experience to create solutions.
 
 # About me👩
