@@ -25,6 +25,12 @@ I'm passionate about web development. Over the years, I’ve built a strong foun
 
 ---
 
+# Most Used Languages 💻
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SabineBen&layout=compact&theme=radical)
+
+---
+
 # Contribution Graph 📈
 
 [![Sabine's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SabineBen&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
