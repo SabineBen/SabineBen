@@ -1,4 +1,4 @@
-# Hi 👋 I'am Sabine
+# Hi 👋 I am Sabine
 
 ### Software Engineer & Web Developer 💻
 I'm passionate about web development. Over the years, I’ve built a strong foundation in programming languages and technologies. My journey in software engineering has been fueled by a problem-solving mindset and a love for crafting efficient solutions.
@@ -21,13 +21,13 @@ I'm passionate about web development. Over the years, I’ve built a strong foun
 
 # GitHub Stats 📊
 
-![Sabine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SabineBen&show_icons=true&theme=radical&hide=issues)
+![Sabine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SabineBen&show_icons=true&theme=radical&hide=issues&count_private=true&include_all_commits=true)
 
 ---
 
 # Most Used Languages 💻
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SabineBen&layout=compact&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SabineBen&layout=compact&theme=radical&count_private=true)
 
 ---
 
